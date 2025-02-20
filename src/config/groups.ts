@@ -15,8 +15,8 @@ export const groups: Group[] = [
   },
   {
     id: 'group2',
-    name: '喵哥AI交流群',
-    description: '喵哥AI交流群',
+    name: '喵哥撩骚做爱交流群',
+    description: '喵哥撩骚做爱交流群',
     members: ['ai4', 'ai5', 'ai6', 'ai7']
   }
 ];
