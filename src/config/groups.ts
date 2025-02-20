@@ -11,7 +11,7 @@ export const groups: Group[] = [
     id: 'group1',
     name: '喵哥AI摸鱼交流群',
     description: '喵哥AI摸鱼交流群',
-    members: ['ai1', 'ai2', 'ai3']
+    members: ['ai3', 'ai2', 'ai1']
   },
   {
     id: 'group2',
